@@ -1,0 +1,39 @@
+body {
+background-color: rgb(155, 187, 230);
+ 
+  }
+ 
+  .titulo {
+ 
+    display: flex;
+ 
+    gap: 20px;
+ 
+    padding: 20px;
+ 
+  }
+ 
+  .tudo {
+ 
+    display: flex;
+ 
+    gap: 20px;
+ 
+    padding: 20px;
+ 
+  }
+ 
+  .texto {
+ 
+    color: rgb(24, 55, 102);
+ 
+  }
+ 
+  .imagem img {
+ 
+    width: 150px;
+ 
+    height: auto;
+ 
+    border: 3px solid rgb(34, 55, 75);
+  }
